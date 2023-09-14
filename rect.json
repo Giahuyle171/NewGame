@@ -1,0 +1,42 @@
+{
+	"buttonplay": {
+		"center": [0.5, 0.6728],
+		"size": [0.164, 0.07528],
+		"text": {
+			"size": [0, 0.045]
+		}
+	},
+	"buttonsetting": {
+		"center": [0.5, 0.7754],
+		"size": [0.17216, 0.07528],
+		"text": {
+			"size": [0, 0.038]
+		}
+	},
+	"buttoncredit": {
+		"center": [0.4985, 0.8727628],
+		"size": [0.16387369, 0.07559],
+		"text": {
+			"size": [0, 0.035]
+		}
+	},
+	"signboardpole": {
+		"midbottom": [0.5, 1],
+		"size": [0.0123, 0.398]
+	},
+	"settingboard": {
+		"center": [0.5, 0.5],
+		"size": [0.443288, 0.702],
+		"title": {
+			"midtop": [0.5, 0.06881143878],
+			"size": [0, 0.055]
+		},
+		"cancelbutton": {
+			"size": [0.0165814, 0.029485]
+		},
+		"musicslider": {
+			"size": [0.3, 0.045],
+			"center": [0.5, 0.4]
+		}
+	}
+}
